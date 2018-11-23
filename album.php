@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>相簿</title>
 </head>
-<body>
+<body style="background:black">
 <?php
 
 $sql="select * from image";
